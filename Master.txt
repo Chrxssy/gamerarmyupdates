@@ -1,1 +1,12 @@
-
+<Version: 1.01>
+/data/Map004 https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Map004.json
+/data/Map005 https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Map005.json
+/data/Map006 https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Map006.json
+/data/Map007 https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Map007.json
+/data/Map008 https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Map008.json
+/data/Map009 https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Map009.json
+/data/Weapons https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Weapons.json
+/data/Actors https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Actors.json
+/data/Items https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Items.json
+/data/Classes https://raw.githubusercontent.com/Chrxssy/gamerarmyupdates/master/Classes.json
+<End of Version>
